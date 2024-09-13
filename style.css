@@ -119,6 +119,8 @@ html, body {
     color: black;   
     font-family: Roboto Mono;
     padding: 10rem 9.5rem;
+    width: 0 auto;
+    
 }
 
 .title-portfolio {
